@@ -1,0 +1,8 @@
+.ProcessBar {
+    background-color: #333;
+    color: white;
+
+    height: 3rem;
+    display: flex;
+    align-items: center;
+}

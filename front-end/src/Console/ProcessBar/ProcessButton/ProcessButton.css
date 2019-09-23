@@ -1,0 +1,25 @@
+.ProcessButton {
+    padding-left: 0.5rem;
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+
+.ProcessButton:hover {
+    cursor: pointer;
+}
+
+.ProcessButton.disabled:hover {
+    cursor: default;
+}
+
+.ProcessButton.red {
+    color: #cc2936
+}
+
+.ProcessButton.green {
+    color: #52b788;
+}
+
+.ProcessButton.disabled {
+    color: grey;
+}

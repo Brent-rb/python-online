@@ -1,0 +1,13 @@
+.App {
+	width: 100vw;
+	height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	align-content: stretch;
+
+	padding: 2rem;
+	background-color: #212931;
+	
+	box-sizing: border-box;
+}

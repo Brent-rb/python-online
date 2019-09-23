@@ -1,0 +1,5 @@
+.Console {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
